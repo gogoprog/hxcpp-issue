@@ -1,0 +1,4 @@
+-cp .
+-main Succeeding
+-cpp build/succeeding
+-D emscripten

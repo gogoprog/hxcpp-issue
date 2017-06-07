@@ -1,5 +1,4 @@
--cp ./
--main Test
--cpp out/failing
+-cp .
+-main Failing
+-cpp build/failing
 -D emscripten
--dce full
