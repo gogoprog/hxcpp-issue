@@ -1,0 +1,5 @@
+-cp ./
+-main Test
+-cpp out/failing
+-D emscripten
+-dce full
